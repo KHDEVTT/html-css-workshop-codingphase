@@ -1,0 +1,15 @@
+# IDE
+.vscode
+.idea
+
+# Node
+node_modules
+
+# OS Generated
+Thumbs.db
+ehthumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
